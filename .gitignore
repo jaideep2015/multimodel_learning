@@ -1,0 +1,26 @@
+# Raw data (downloaded via src/data/download.py, not redistributed here)
+data/
+
+# Model checkpoints and generated plots
+outputs/
+*.pth
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local tool config (not part of the project)
+.claude/
