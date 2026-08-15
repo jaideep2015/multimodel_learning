@@ -1,8 +1,8 @@
 # Raw data (downloaded via src/data/download.py, not redistributed here)
-data/
+/data/
 
 # Model checkpoints and generated plots
-outputs/
+/outputs/
 *.pth
 *.pdf
 
