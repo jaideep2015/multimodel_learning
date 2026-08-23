@@ -24,3 +24,6 @@ Thumbs.db
 
 # Local tool config (not part of the project)
 .claude/
+
+# Personal reference files (not part of the project)
+Multimodal_Credit_Scoring_Explained.docx
